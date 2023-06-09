@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+
+![Screenshot_20230609_155237](https://github.com/Mohan-Chandra-Sharma1/Datavinci/assets/120721761/7ca6d4d1-f4d8-4eba-8873-b3e39fed9f48)
+
+
+![Screenshot_20230609_155306](https://github.com/Mohan-Chandra-Sharma1/Datavinci/assets/120721761/3c976225-acd9-483e-ab5d-f673f69b3a74)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
